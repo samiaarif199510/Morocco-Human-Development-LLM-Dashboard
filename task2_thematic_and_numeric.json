@@ -1,0 +1,73 @@
+{
+  "theme_counts": {
+    "education": 85,
+    "health": 56,
+    "inequality": 34,
+    "economy": 134,
+    "gender": 26,
+    "climate": 90,
+    "employment": 50
+  },
+  "strengths_challenges": {
+    "strengths": [
+      "put Morocco on the path to building a modern State",
+      "reinforce our future choices and orientations",
+      "extraordinary efforts undertaken",
+      "accelerate the rate and deepen the range of reforms",
+      "strengthen democracy"
+    ],
+    "challenges": [
+      "difficulties in human development",
+      "practices and behavior which have stood in the way of its development",
+      "depressed performance",
+      "slow to bear fruit",
+      "impediments to Morocco's future"
+    ]
+  },
+  "indicators": {
+    "hdi_value": null,
+    "hdi_rank": 124.0,
+    "life_expectancy_years": 71,
+    "expected_years_schooling": null,
+    "mean_years_schooling": null,
+    "gni_per_capita_usd": null,
+    "population": 2.0
+  },
+  "trends": [
+    {
+      "indicator": "Population",
+      "year_start": 1960,
+      "value_start": 10.0,
+      "year_end": 2000,
+      "value_end": 30.0,
+      "unit": "million"
+    },
+    {
+      "indicator": "Life expectancy",
+      "year_start": 1962,
+      "value_start": 47.0,
+      "year_end": 2004,
+      "value_end": 71.0,
+      "unit": "years"
+    }
+  ],
+  "evaluation": {
+    "strengths_challenges": {
+      "completeness": 4,
+      "factual_alignment": 5,
+      "justification": "The extract found the strengths and challenges genuinely present in the text. The values extracted are correct and not hallucinated."
+    },
+    "indicators": {
+      "completeness": 1,
+      "factual_alignment": 0,
+      "justification": "The extracted JSON does not find indicators genuinely present in the text and the values are not correct as they are missing key data from the text."
+    },
+    "trends": {
+      "completeness": 1,
+      "factual_alignment": 0,
+      "justification": "The extracted JSON does not accurately represent the information provided in the source text as it contains indicators (Population and Life expectancy) that are not explicitly mentioned or quantified in the text."
+    }
+  },
+  "extractor_model": "llama3.1",
+  "evaluator_model": "mistral"
+}

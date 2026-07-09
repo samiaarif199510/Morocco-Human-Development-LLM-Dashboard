@@ -1,0 +1,99 @@
+{
+  "key_results": "- The project to evaluate human development in Morocco since independence was initiated by King Mohammed VI in 2003.\n- Over 100 national experts from universities, administration, and civil society were involved in the project.\n- The report's concept of \"human development\" allowed for a wide range of themes and questions to be addressed across various disciplines.\n- Important reforms have been launched in Morocco during this period, marking a significant transitional phase.\n- The country is at a crossroads, with opportunities to pursue a great national ambition through human development.\n- The report aims to stimulate public policy debate on the lessons learned from past successes and failures.\n- The project was conducted with respect for participation, scientific independence, and editorial independence.",
+  "chapter_summaries": {
+    "1. Context and Purpose": {
+      "summary": "The UN Human Development Report for Morocco focuses on evaluating the country's progress in human development since its independence. The report was initiated by King Mohammed VI to reflect on successes, difficulties, and ambitions over the past half century. It aims to inform future choices and orientations. The report is based on a participatory study involving over 100 national experts from universities, administration, and civil society. The concept of human development allows for a wide range of themes to be addressed, including interdependent issues that require a multidisciplinary approach.",
+      "word_count": 89
+    },
+    "2. Progression and results of the project": {
+      "summary": "The project was managed by a Scientific Commission and guided by a Steering Committee. Ten task forces were created to address various themes, including demographics, economic development, education, health, and governance. Three cross-sectional groups worked on historical evolution, future perspectives, and synthesis. The project involved over 100 national experts from universities, administration, and civil society. It was driven by the concept of human development, which allowed for a wide range of interdependent themes to be addressed.",
+      "word_count": 76
+    },
+    "3. Survey of the values of Moroccans": {
+      "summary": "A comparative study was conducted on Morocco and 14 other countries from 1955-2004. The project involved 13 task forces, each focusing on a specific theme such as demographics, economic development, and governance. Three cross-sectional groups worked on historical evolution, perspectives for the country leading up to 2025, and the contribution of Moroccans living abroad. The report highlights the increasing number of Moroccans living abroad (MRE) and their potential contributions to the national economy, external influence, and cultural enrichment.",
+      "word_count": 78
+    },
+    "1. Evolution of Human Potential in Morocco": {
+      "summary": "Moroccan society is caught between traditional and modern values. The country's human potential is comprised of three main components: the Moroccan Diaspora, which has become a significant economic and cultural contributor; women, who have played an important role in the country's evolution; and its diverse population, including Imazighen, Arabs, Jews, Andalous, and Africans, which has developed a shared sense of belonging. Despite challenges, Morocco remains united and confident around its monarchy, with a rich human potential that comes from its diversity and history. The diaspora contributes significantly to the national economy.",
+      "word_count": 91
+    },
+    "2. Political System, Institutions and Governance": {
+      "summary": "Morocco has maintained internal vigor through various institutions, including political parties, trade unions, and civil society organizations. The country has preserved civil peace and avoided totalitarianism, allowing for the development of a pluralistic political culture. Key assets include freedom of association and press, and a professional media. Political parties and trade unions are preparing to initiate structural renewal. Morocco has made progress in human development, with advances in areas such as education and healthcare. The country has also maintained security, guaranteeing the safety of persons and goods.",
+      "word_count": 87
+    },
+    "3. Enhancement of human potential value": {
+      "summary": "The chapter discusses the enhancement of human potential value in Morocco. The government has implemented various initiatives, such as \"human resources development\" and \"social policies\", to promote and reinforce Moroccan capabilities. The report proposes a framework for understanding human development in Morocco, focusing on four areas: (1) liberating human potential from people's perspective, (2) valuing human potential from life and intelligence perspectives, (3) mobilizing human potential as a driving force of wealth creation, and (4) physical potential as a source and framework for human development.",
+      "word_count": 85
+    },
+    "4. Mobilization of human potential": {
+      "summary": "Chapter 4 of the UN Human Development Report focuses on Morocco's mobilization of human potential. Since independence, Morocco has built a modern national economy with basic principles such as issuing a national currency and controlling inflation. A liberal economic model was constructed from 1955 to 1982, followed by a Structural Adjustment Program (SAP) in 1983. The economy opened up to privatization and free trade agreements, leading to improved living standards. However, growth has generally lacked vigor since 1955, with low per capita income increase.",
+      "word_count": 84
+    },
+    "5. Standard of living and development of physical potential": {
+      "summary": "Morocco has made progress in achieving economic growth and developing human capacities. In the water sector, the country aims to overcome vulnerabilities by controlling and stocking water supplies. A million hectares were irrigated by 1998, meeting a challenge set by King Hassan II. However, Morocco needs to reorient its water policies towards less conventional resources and master demand. Energy consumption is also a concern, with a significant burden on the country's bill due to rising oil prices. Average energy consumption per capita is lower than comparable countries, but the trend in global markets poses challenges for Morocco.",
+      "word_count": 97
+    },
+    "6. A future with confidence": {
+      "summary": "Morocco is undergoing multiple transitions: democratic, economic, social, cultural, and demographic. The country has made significant progress in its democratic transition, with major reforms aimed at deepening and accelerating the process. Two contrasting visions for Morocco's future are presented: one where transitions are strengthened and new reforms initiated, and another where challenges persist. A 2025 Agenda is proposed as a basis for debate among all stakeholders. The report emphasizes the importance of solidarity, equality, and cultural diversity in achieving human development goals.",
+      "word_count": 82
+    }
+  },
+  "evaluation": {
+    "1. Context and Purpose": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "justification": "The summary accurately captures the main points and is logically consistent with the source text."
+    },
+    "2. Progression and results of the project": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "justification": "The summary accurately represents the main points and structure of the source text, although it slightly expands on the number of themes and adds a mention of 'demographics' not explicitly mentioned in the source."
+    },
+    "3. Survey of the values of Moroccans": {
+      "consistency": 4,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "justification": "The summary accurately captures the main themes of the source text but omits some details about the structure of the report and the focus on human potential."
+    },
+    "1. Evolution of Human Potential in Morocco": {
+      "consistency": 4,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "justification": "The summary accurately captures the main points about Moroccan society's diversity and unity, but it introduces the concept of 'Moroccan Diaspora' which is not explicitly mentioned in the source text."
+    },
+    "2. Political System, Institutions and Governance": {
+      "consistency": 4,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "justification": "The summary accurately captures the main points about Morocco's political development, institutional stability, and preservation of civil peace. However, it slightly expands on the text by mentioning 'advances in areas such as education and healthcare', which are not explicitly stated in the source text."
+    },
+    "3. Enhancement of human potential value": {
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 4,
+      "justification": "The summary accurately captures the main focus on enhancing human potential in Morocco through various initiatives, but it does not fully cover the specific issues and challenges faced in access to basic services and education as detailed in the source text."
+    },
+    "4. Mobilization of human potential": {
+      "consistency": 4,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "justification": "The summary accurately captures the main points of the source text about Morocco's economic development since independence, including the construction of a modern national economy, the implementation of various economic policies, and the impact on living standards. However, it slightly oversimplifies the complexity of factors affecting growth rates."
+    },
+    "5. Standard of living and development of physical potential": {
+      "consistency": 4,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "justification": "The summary accurately captures the main points of the source text about Morocco's water and energy policies, but it slightly oversimplifies some details and does not mention the decline in water quality over the last two decades."
+    },
+    "6. A future with confidence": {
+      "consistency": 4,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "justification": "The summary accurately captures the main points of the source text, including the multiple transitions Morocco is experiencing and the progress made in its democratic transition. However, it slightly simplifies some details and does not mention all specific reforms or projects."
+    }
+  },
+  "extractor_model": "llama3.1",
+  "evaluator_model": "mistral"
+}
